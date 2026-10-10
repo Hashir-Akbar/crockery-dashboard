@@ -1,0 +1,8 @@
+{
+  "name": "Asghar Crockery Wholesale Hub & Ledger",
+  "description": "Wholesale crockery supply management dashboard with area-wise shop directories, custom-field invoicing, freight/discount calculations, client ledger statements, and shareable shop portals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
